@@ -1,6 +1,5 @@
 ---
 title: "Claire O'Brien"
-author: "Claire O'Brien"
 date: "2024-12-03"
 output: html_document
 ---
@@ -12,20 +11,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Research Interests
 
-Climate change and disturbance impacts on plant functional traits, species composition, and ecosystem function. Ecology and organism plasticity in response to changing environmental conditions.
+Climate change and disturbance impacts on species traits, species composition, and ecosystem function. Ecology and organism plasticity in response to changing environmental conditions.
 
 ## Publications
 
-```{r}
+O’Brien, C. S. B. 2024. Arctic permafrost disturbances increase tall, deciduous shrub productivity. [Unpublished Master’s Thesis]. Wilfrid Laurier University.
 
-```
+Sutherland, T.F., Mak, M.S.Y., Galvao, M.A., Sterling, A.M., O’Brien, C.S.B., Hoyle, M.A., Lindsay, C., Mortimor, J., and Covert, P.A. 2022. Epifaunal Diversity on Dockside Surface Perimeters in Burrard Inlet and Fraser River Delta, British Columbia, Canada. Canadian Technical Report of Fisheries and Aquatic Science. 3508: xv + 83 p.  
 
-## Including Plots
+## Contact
 
-You can also embed plots, for example:
+Linkedin: https://www.linkedin.com/in/claire-o-brien-1439a3193/
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+
